@@ -11,5 +11,8 @@ hs_err_pid*
 
 /target/
 
+/.settings
+.project
+
 #EOF
 
